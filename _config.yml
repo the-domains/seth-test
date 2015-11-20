@@ -1,0 +1,28 @@
+name: Seth Test
+favicon: null
+layout_spectrum: 0.7773912579286844
+typography_spectrum: 0.6908793663606048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9090679956134409
+  lightness: 0.7463227934204042
+  saturation: 0.2613713007885963
+  rhythmicContrast: 0.8166072564199567
+purpose: []
