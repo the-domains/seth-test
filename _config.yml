@@ -2,6 +2,7 @@ name: Seth Test
 favicon: null
 layout_spectrum: 0.72344
 typography_spectrum: 0.6908793663606048
+title: Testing
 cta:
   domain: null
   bucket: null
