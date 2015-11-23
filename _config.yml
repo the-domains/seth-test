@@ -1,7 +1,7 @@
 name: Seth Test
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6908793663606048
+typography_spectrum: 0.19762
 title: Testing
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.8125
-  lightness: 0.7463227934204042
-  saturation: 0.2613713007885963
+  lightness: 0.625
+  saturation: 0.8125
   rhythmicContrast: 0.8166072564199567
 purpose: []
