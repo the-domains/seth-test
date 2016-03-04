@@ -1,7 +1,7 @@
 name: Seth Test
 favicon: null
 layout_spectrum: 0.52601
-typography_spectrum: 0.19762
+typography_spectrum: 0.91438
 title: Testing
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#b5e2ff'
-    - '#000035'
-    - '#002f7b'
-    - '#0061b7'
-    - '#69ace2'
-  brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.8166072564199567
+    - '#effffc'
+    - '#8a6e58'
+    - '#0e0e0c'
+    - '#c0a280'
+    - '#67b158'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
