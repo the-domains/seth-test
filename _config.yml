@@ -1,20 +1,4 @@
-name: Seth Test
-favicon: null
-layout_spectrum: 0.52601
 typography_spectrum: 0.91438
-title: Testing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#effffc'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.6875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.52601
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Seth Test
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hello
 purpose: []
